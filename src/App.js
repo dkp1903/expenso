@@ -25,7 +25,7 @@ const App = () => {
   
 
   useEffect(() => {
-      if(speechState === speechState.Recording)
+      if(speechState === SpeechState.Recording)
           executeScroll()
   }, [])
   return (
