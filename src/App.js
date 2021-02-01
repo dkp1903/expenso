@@ -27,7 +27,7 @@ const App = () => {
   useEffect(() => {
       if(speechState === SpeechState.Recording)
           executeScroll()
-  }, [])
+  }, [speechState])
   return (
     <ThemeProvider theme={theme}>
     <div >
