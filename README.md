@@ -1,6 +1,6 @@
-### Expenso
+## Expenso - Voice powered expense tracker PWA
 
-## [View the live deployment here](https://expenso.netlify.app)
+[View the live deployment here](https://expenso.netlify.app)
 
 Welcome! Expenso is a voice powered budget tracking app created using React, Material UI and Speechify that allows you to add income and expenses across a variety of categories.
 
@@ -19,5 +19,3 @@ A video walkthrough of the app can be found [here](https://www.loom.com/share/e0
 - No database, all data is only maintained on your browser's local storage, so no worries about data privacy and security
 - No network requests needed, so network requirement not a bottleneck
 - Works offline
-
-DKP(Creator of Expenso)
