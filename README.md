@@ -20,4 +20,4 @@ A video walkthrough of the app can be found [here](https://www.loom.com/share/e0
 - No network requests needed, so network requirement not a bottleneck
 - Works offline
 
-- DKP(Creator of Expenso)
+DKP(Creator of Expenso)
