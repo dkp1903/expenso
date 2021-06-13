@@ -12,4 +12,12 @@ Go to https://expenso.netlify.app. You'll be prompted by the browser to allow mi
 
 A video walkthrough of the app can be found [here](https://www.loom.com/share/e0c12ce6262b434db4ad8be643537e95)
 
+### Cons : 
+- Limited only to one browser, since it doesn't maintain a database.
+
+### Pros : 
+- No database, all data is only maintained on your browser's local storage, so no worries about data privacy and security
+- No network requests needed, so network requirement not a bottleneck
+- Works offline
+
 - DKP(Creator of Expenso)
